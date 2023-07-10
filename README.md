@@ -6,3 +6,4 @@ It is a web application built with Django, inspired by Discord, that offers a ra
 - Seamless Room Participation: Join any room as a participant with just a click. Once inside, you can actively engage in conversations and collaborate with other members.
 - AI-powered Doubt Support: StudyHub integrates an AI chatbot, powered by the OpenAI Chat Completions API, to provide prompt assistance with your doubts and queries.
 - Activity Feeds: Stay informed about the latest happenings in your study groups through activity feeds. 
+- It also offers an API built using the Django REST Framework, granting users access to specific data and functionalities.
